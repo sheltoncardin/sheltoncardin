@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sheltoncardin
-- 👀 I’m interested in Programming and in my Second year of Computer Science
+- 👀 I’m interested in Programming and in my Third year of Computer Science
 - 🌱 I’m currently learning Hadoop, Java, Python, 
 - 💞️ I’m looking to collaborate on Python based projects
 - 📫 How to reach me 
