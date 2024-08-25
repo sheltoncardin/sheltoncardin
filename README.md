@@ -1,13 +1,38 @@
-- 👋 Hi, I’m @sheltoncardin
-- 👀 I’m interested in Programming and in my Third year of Computer Science
-- 🌱 I’m currently learning Hadoop, Java, Python, 
-- 💞️ I’m looking to collaborate on Python based projects
-- 📫 How to reach me 
-      You can reach me on sheltoncardin@gmail.com or on linkedin on https://www.linkedin.com/in/sheltoncardin/
+## Shelton Cardin | DevOps Engineer | Automation Enthusiast | Infrastructure as Code Advocate
 
-<!---
-sheltoncardin/sheltoncardin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**👋 Welcome to my GitHub profile!** 
 
-cssff
+I'm a passionate DevOps engineer with over 3+ years of experience in automating and streamlining software delivery pipelines. I'm particularly skilled in Infrastructure as Code (IaC), utilizing tools like Terraform, Ansible to ensure consistent, repeatable infrastructure deployments across environments.
+
+## 🔧 My expertise lies in:
+
+* **Infrastructure as Code (IaC):** Terraform, Ansible 🛠️
+* **Containerization:** Docker, Kubernetes, 🐳
+* **Networking and Security:** Firewalls, Load Balancers, VPNs, On-prem connectivity 🌐
+* **DevOps Tools and Methodologies:** CI/CD pipelines in Jenkins, GitHub Actions, GitLab CI/CD and Spinnaker 🚀
+* **Cloud Technologies:** Main stream on GCP and Azure and slowly learning AWS ☁️
+* **Languages:**  Python, Ruby[Rails], GoLang 💻
+
+## 🌱 Current Learning Path
+
+* **IaC**: CDKTF 📚
+* **Cloud**: AWS ☁️
+* **Languages**: GoLang, Rust ⚙️
+* **Concepts**: AIOps 🧠
+
+
+## 🏆 Certifications
+
+* Google Cloud Certified Professional **Cloud Architect** 🎓
+* Google Cloud Certified Professional **Cloud Network Engineer** 🎓
+* Google Cloud Certified Professional **Cloud Security Engineer** 🎓
+* Google Cloud Certified Professional **Cloud DevOps Engineer** 🎓
+* CNCF Certified **Kubernetes Administrator** 🎓
+
+
+## 📫 Contact
+
+Feel free to connect with me!
+
+* **Email:** [sheltoncardin@gmail.com](mailto:[sheltoncardin@gmail.com]) 📧
+* **LinkedIn:** [Shelton Cardin](https://linkedin.com/in/sheltoncardin) 🤝
