@@ -28,6 +28,7 @@ I'm a passionate DevOps engineer with over 3+ years of experience in automating 
 * Google Cloud Certified Professional **Cloud Security Engineer** 🎓
 * Google Cloud Certified Professional **Cloud DevOps Engineer** 🎓
 * CNCF Certified **Kubernetes Administrator** 🎓
+* AWS Certified **Solutions Architect - Associate** 🎓
 
 
 ## 📫 Contact
